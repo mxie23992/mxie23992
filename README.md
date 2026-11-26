@@ -1,16 +1,30 @@
-## Hi there 👋
+# Weikai Xiu · 修伟凯
 
-<!--
-**mxie23992/mxie23992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Robotics Engineer | Embodied AI | Robot Learning**
 
-Here are some ideas to get you started:
+I build robotic systems across mechanical design, hardware, learning-based control and real-world deployment. My interests center on legged robotics, reinforcement learning and embodied intelligence, with an emphasis on bridging simulation and physical robots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gitee](https://img.shields.io/badge/Gitee-Portfolio-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/DDD24/)
+
+## Research & Engineering
+
+- **Robot Learning** — Reinforcement learning, locomotion, motion imitation and world models.
+- **Legged Robotics** — Quadruped and bipedal robot design, dynamics and control.
+- **Sim-to-Real** — Physics simulation, policy inference and real-robot integration.
+- **Robot Systems** — Mechanical design, embedded systems and hardware–software integration.
+
+| Area | Tools & Methods |
+| :--- | :--- |
+| Learning & Control | RSL-RL, PPO, DreamWaQ, HIMLoco, AMP, RSSM |
+| Modeling & Simulation | SolidWorks, URDF, USD, MJCF, Isaac Lab, MuJoCo |
+| Hardware & Deployment | STM32, ESP32, Jetson, RK3588, CAN / CAN FD, TorchScript, ONNX Runtime |
+
+## Research
+
+**Variable-Diameter Wheeled Mobile Mechanism Based on Scissor-like Mechanism**  
+*ASME Journal of Mechanisms and Robotics (JMR) · Accepted*
+
+Mechanism design, kinematic modeling, motion control and experimental validation for terrain adaptation.
+---
+
+Building robots from mechanical design to intelligent behavior.
