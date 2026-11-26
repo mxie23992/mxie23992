@@ -13,6 +13,26 @@ I build robotic systems across mechanical design, hardware, learning-based contr
 - **Sim-to-Real** — Physics simulation, policy inference and real-robot integration.
 - **Robot Systems** — Mechanical design, embedded systems and hardware–software integration.
 
+## Selected Projects
+
+| Project | Focus |
+| :--- | :--- |
+| [Robotics Portfolio](https://gitee.com/DDD24/xiu) | Robot design and engineering projects |
+| [Quadruped Robot · 4 DoF per Leg](https://gitee.com/DDD24/double) | Legged robot design |
+| [Bipedal Robot Development](https://gitee.com/DDD24/part3) | Bipedal robot design and development |
+| [23-DoF Hexapod Robot](https://gitee.com/DDD24/part2) | Multi-legged robotic systems |
+| [Soft Bipedal Robot](https://gitee.com/DDD24/part4) | Compliant mechanical design and experiments |
+| [Desktop Companion Robot](https://gitee.com/DDD24/xiupart5) | Interactive robotic product design |
+
+## Technical Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-313131?style=flat-square)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 | Area | Tools & Methods |
 | :--- | :--- |
 | Learning & Control | RSL-RL, PPO, DreamWaQ, HIMLoco, AMP, RSSM |
@@ -25,6 +45,7 @@ I build robotic systems across mechanical design, hardware, learning-based contr
 *ASME Journal of Mechanisms and Robotics (JMR) · Accepted*
 
 Mechanism design, kinematic modeling, motion control and experimental validation for terrain adaptation.
+
 ---
 
 Building robots from mechanical design to intelligent behavior.
